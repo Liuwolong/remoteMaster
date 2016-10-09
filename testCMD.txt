@@ -1,7 +1,0 @@
-taaahis is a test document.
-nihao this are vim test.
-save documendfsffdsaf
-sdfasfd
-asdfasdfa
-sadfasfsaf
-adsfasfasfsf
